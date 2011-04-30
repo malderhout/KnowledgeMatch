@@ -8,6 +8,7 @@ class Kandidaat {
 	String Woonplaats
 	String Telefoon
 	String Telefoon2
+        String Telefoon3
 	
     static constraints = {
     }
