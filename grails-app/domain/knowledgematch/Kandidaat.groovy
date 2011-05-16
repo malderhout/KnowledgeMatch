@@ -2,14 +2,9 @@ package knowledgematch
 
 class Kandidaat {
 
-	String voorNaam
-	String achterNaam
-	String Adres
-	String Woonplaats
-	String Telefoon
-        String VXA
-        Date   Geboortedatum
-
+	String Name
+        String Adres
+	Date   BirthDate
 	
     static constraints = {
     }
