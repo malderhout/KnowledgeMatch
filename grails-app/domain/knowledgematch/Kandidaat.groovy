@@ -2,8 +2,8 @@ package knowledgematch
 
 class Kandidaat {
 
-	String Name
-        String Adres
+	String A1
+        String B1
 	Date   BirthDate
 	
     static constraints = {
